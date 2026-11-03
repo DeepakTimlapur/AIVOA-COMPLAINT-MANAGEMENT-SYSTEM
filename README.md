@@ -2,7 +2,7 @@
 
 An AI-powered Customer Complaint Management System designed for pharmaceutical manufacturing and Quality Assurance (QA) workflows.
 
-AIVOA converts unstructured customer complaints from text or documents into structured complaint records, performs AI-assisted completeness, risk, and duplicate assessments, supports targeted corrections through an AI Copilot, and enables human-reviewed commitment to a QMS ledger.
+COMPLAINT-MANAGEMENT-SYSTEM converts unstructured customer complaints from text or documents into structured complaint records, performs AI-assisted completeness, risk, and duplicate assessments, supports targeted corrections through an AI Copilot, and enables human-reviewed commitment to a QMS ledger.
 
 ---
 
